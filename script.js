@@ -126,3 +126,5 @@ deleteButton.addEventListener('click', button => {
     calculator.delete()
     calculator.updateDisplay()
 })
+
+// ! Add Keyboard Support
